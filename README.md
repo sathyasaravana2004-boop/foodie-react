@@ -1,3 +1,36 @@
+# 🍔 Foodie React
+
+## 🚀 Live Demo
+
+[View Live Demo](https://sathyasaravana2004-boop.github.io/foodie-react/)
+
+## 📌 Project Description
+
+**Foodie React** is a responsive food ordering website built using **React.js** and **Vite**. The project provides a modern and interactive interface where users can explore different food items, view food details, manage their cart, and interact with the website through a smooth and user-friendly UI.
+
+The project was developed to practice **React components, state management, routing, reusable UI elements, and responsive web design**.
+
+### ✨ Key Features
+
+* 🍕 Browse different food items
+* 🔍 Explore food details
+* 🛒 Add and remove items from cart
+* ❤️ Wishlist functionality
+* 📱 Responsive design for different screen sizes
+* ⚡ Fast and interactive React interface
+* 🧩 Reusable React components
+* 🎨 Modern UI with CSS animations and transitions
+
+### 🛠️ Technologies Used
+
+**React.js | Vite | JavaScript | HTML | CSS**
+
+## 💻 GitHub Repository
+
+[View Source Code](https://github.com/sathyasaravana2004-boop/foodie-react)
+
+# Live- Demo
+ https://sathyasaravana2004-boop.github.io/foodie-react/
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
