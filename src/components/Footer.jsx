@@ -10,7 +10,7 @@ function Footer() {
 
         <div className="footer-brand">
           <Link to="/" className="footer-logo">
-            Foodie
+            Foodie <span className="footer-arrow">→</span>
           </Link>
 
           <p>
